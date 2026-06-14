@@ -1,3 +1,4 @@
  Olá! Meu nome é Lucas Bueno e sou aluno de Engenharia de Software.
  Eu aprendi a verificar úsuarios, email, chaves, conectar a chave ssh ao github...
 Esta linha foi adicionada diretamente pelo GitHub em uma branch separada.
+ Estou realizando a atividade insana
